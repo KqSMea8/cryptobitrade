@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      "print-this@1.12.3",
+      "/home/ghanarealtymlm/office"
+    ]
+  ],
+  "_from": "print-this@1.12.3",
+  "_id": "print-this@1.12.3",
+  "_inBundle": false,
+  "_integrity": "sha1-QGWdiEW/JbGgEYXMQqXigE4uSM0=",
+  "_location": "/print-this",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "print-this@1.12.3",
+    "name": "print-this",
+    "escapedName": "print-this",
+    "rawSpec": "1.12.3",
+    "saveSpec": null,
+    "fetchSpec": "1.12.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/print-this/-/print-this-1.12.3.tgz",
+  "_spec": "1.12.3",
+  "_where": "/home/ghanarealtymlm/office",
+  "author": {
+    "name": "Jason Day"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonday/printThis/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.11"
+  },
+  "description": "Printing plug-in for jQuery",
+  "homepage": "https://github.com/jasonday/printThis#readme",
+  "license": "MIT",
+  "main": "printThis.js",
+  "name": "print-this",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonday/printThis.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.12.3"
+}

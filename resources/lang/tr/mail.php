@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'compose'                       => 'Oluştur',
+    'compose_now'                   => 'Şimdi oluştur',
+    'content'                       => 'İçerik',
+    'email'                         => 'E-posta',
+    'from'                          => 'Dan',
+    'home'                          => 'Ev',
+    'important'                     => 'Önemli',
+    'inbox'                         => 'Gelen kutusu',
+    'inbox_mails'                   => 'Gelen postaları',
+    'msg_deleted'                   => 'Msg silinmiş',
+    'msg_send'                      => 'Mesaj gönder',
+    'my_inbox'                      => 'Gelen kutum',
+    'my_outbox'                     => 'Giden benim',
+    'no-data'                       => 'Veri',
+    'outbox'                        => 'Giden kutusu',
+    'search_messages'               => 'Arama i̇letileri',
+    'send'                          => 'Gönder',
+    'subject'                       => 'Konu',
+    'text_your_message'             => 'Metin mesajı',
+    'to'                            => 'İçin',
+    'work'                          => 'İş',
+    'you_didnt_send_any_messages'   => 'Herhangi Bir Mesaj Göndermek Değil Mi?',
+    'you_have_no_messages'          => 'Hiç mesajınız yok',
+    'your_inbox'                    => 'Gelen kutusu',
+];

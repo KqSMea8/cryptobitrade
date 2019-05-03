@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'compose'                       => 'Compor',
+    'compose_now'                   => 'Escrever agora',
+    'content'                       => 'Conteúdo',
+    'email'                         => 'E-mail',
+    'from'                          => 'A partir de',
+    'home'                          => 'Casa',
+    'important'                     => 'Importante',
+    'inbox'                         => 'Entrada',
+    'inbox_mails'                   => 'Caixa De Entrada De E-Mails',
+    'msg_deleted'                   => 'Msg excluídos',
+    'msg_send'                      => 'Erro de envio',
+    'my_inbox'                      => 'Minha caixa de entrada',
+    'my_outbox'                     => 'Minha caixa de saída',
+    'no-data'                       => 'Não há dados',
+    'outbox'                        => 'Enviar',
+    'search_messages'               => 'Pesquisar mensagens',
+    'send'                          => 'Enviar',
+    'subject'                       => 'Assunto',
+    'text_your_message'             => 'O texto da sua mensagem',
+    'to'                            => 'Para',
+    'work'                          => 'Trabalho',
+    'you_didnt_send_any_messages'   => 'Você não enviar quaisquer mensagens',
+    'you_have_no_messages'          => 'Você não tem mensagens',
+    'your_inbox'                    => 'Sua caixa de entrada',
+];

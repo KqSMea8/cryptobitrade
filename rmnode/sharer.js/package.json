@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "sharer.js@0.3.3",
+      "/home/ghanarealtymlm/office"
+    ]
+  ],
+  "_from": "sharer.js@0.3.3",
+  "_id": "sharer.js@0.3.3",
+  "_inBundle": false,
+  "_integrity": "sha512-trdFYjJJy/MpiefrifUIL4z53RjiizxSPbWk8VS69IpJYqGfTeFK0+MtX9GOTfeH5Twe0Zk8Z5uRdmicFbD7/A==",
+  "_location": "/sharer.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "sharer.js@0.3.3",
+    "name": "sharer.js",
+    "escapedName": "sharer.js",
+    "rawSpec": "0.3.3",
+    "saveSpec": null,
+    "fetchSpec": "0.3.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sharer.js/-/sharer.js-0.3.3.tgz",
+  "_spec": "0.3.3",
+  "_where": "/home/ghanarealtymlm/office",
+  "author": {
+    "name": "Ellison Leão",
+    "email": "ellisonleao@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ellisonleao/sharer.js/issues"
+  },
+  "description": "Create your own social share buttons. No Jquery.",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "uglify-js": "^3.3.21"
+  },
+  "homepage": "https://ellisonleao.github.io/sharer.js/",
+  "keywords": [
+    "social",
+    "share",
+    "facebook",
+    "twitter",
+    "google",
+    "plus",
+    "linkedin",
+    "email",
+    "telegram",
+    "whatsapp",
+    "telegram",
+    "viber",
+    "hackernews",
+    "vk",
+    "reddit",
+    "instapaper",
+    "pocket",
+    "stumbleupon",
+    "digg",
+    "flipboard",
+    "weibo",
+    "renren",
+    "blogger",
+    "myspace",
+    "baidu",
+    "okru",
+    "mailru"
+  ],
+  "license": "GPLv3",
+  "main": "sharer.js",
+  "name": "sharer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellisonleao/sharer.js.git"
+  },
+  "scripts": {
+    "compress": "uglifyjs sharer.js --mangle > sharer.min.js",
+    "test": "eslint sharer.js"
+  },
+  "version": "0.3.3"
+}

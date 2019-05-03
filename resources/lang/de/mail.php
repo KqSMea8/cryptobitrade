@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'compose'                       => 'Verfassen',
+    'compose_now'                   => 'Verfassen sie jetzt',
+    'content'                       => 'Inhalt',
+    'email'                         => 'E-Mail',
+    'from'                          => 'Aus',
+    'home'                          => 'Home',
+    'important'                     => 'Wichtig',
+    'inbox'                         => 'Posteingang',
+    'inbox_mails'                   => 'Posteingang mails',
+    'msg_deleted'                   => 'Msg gelöscht',
+    'msg_send'                      => 'Msg senden',
+    'my_inbox'                      => 'Mein posteingang',
+    'my_outbox'                     => 'Mein postausgang',
+    'no-data'                       => 'Keine daten',
+    'outbox'                        => 'Outbox',
+    'search_messages'               => 'Die suche nach nachrichten',
+    'send'                          => 'Senden',
+    'subject'                       => 'Thema',
+    'text_your_message'             => 'Text ihrer nachricht',
+    'to'                            => 'Zu',
+    'work'                          => 'Arbeit',
+    'you_didnt_send_any_messages'   => 'Sie nicht senden sie alle nachrichten',
+    'you_have_no_messages'          => 'Sie haben keine nachrichten',
+    'your_inbox'                    => 'Ihren posteingang',
+];

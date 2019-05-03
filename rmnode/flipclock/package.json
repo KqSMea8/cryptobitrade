@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      "flipclock@0.8.2",
+      "/home/ghanarealtymlm/office"
+    ]
+  ],
+  "_from": "flipclock@0.8.2",
+  "_id": "flipclock@0.8.2",
+  "_inBundle": false,
+  "_integrity": "sha512-CVSAyn1zTJ1oBb+C7ILgYwb1UitCdXOTzqecLtSgKsXSBrczXa6OPaNxAVa1ploAkDfcQ6JYlyQwUDKo5oeCqw==",
+  "_location": "/flipclock",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "flipclock@0.8.2",
+    "name": "flipclock",
+    "escapedName": "flipclock",
+    "rawSpec": "0.8.2",
+    "saveSpec": null,
+    "fetchSpec": "0.8.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/flipclock/-/flipclock-0.8.2.tgz",
+  "_spec": "0.8.2",
+  "_where": "/home/ghanarealtymlm/office",
+  "author": {
+    "name": "Objective HTML, LLC",
+    "email": "support@objectivehtml.com"
+  },
+  "bugs": {
+    "url": "https://github.com/objectivehtml/FlipClock/issues"
+  },
+  "contributors": [
+    {
+      "name": "Objective HTML, LLC",
+      "email": "support@objectivehtml.com"
+    },
+    {
+      "name": "Brian Espinosa",
+      "email": "b@bje.co"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "description": "A fully featured countdown clock.",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.7",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.x",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^1.4.2"
+  },
+  "email": "support@objectivehtml.com",
+  "engines": {
+    "node": "^0.12.x",
+    "npm": "^2.1.x"
+  },
+  "homepage": "http://flipclockjs.com/",
+  "keywords": [
+    "clock",
+    "countdown",
+    "time",
+    "javascript",
+    "html",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "main": "dist/flipclock.js",
+  "name": "flipclock",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/objectivehtml/FlipClock.git"
+  },
+  "version": "0.8.2"
+}
